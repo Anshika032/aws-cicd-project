@@ -1,3 +1,5 @@
+[![Deploy Website to S3](https://github.com/Anshika032/aws-cicd-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/Anshika032/aws-cicd-project/actions/workflows/deploy.yml)
+
 # 🚀 AWS CI/CD Pipeline — GitHub Actions + Amazon S3
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
