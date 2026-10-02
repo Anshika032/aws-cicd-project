@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f7fb;
+    color: #222;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 18px;
+    max-width: 600px;
+    line-height: 1.6;
+}
+
+button {
+    margin-top: 20px;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    background: #232f3e;
+    color: white;
+    font-size: 16px;
+}
